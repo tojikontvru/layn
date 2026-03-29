@@ -358,7 +358,7 @@ dependencies {
     implementation "androidx.sharetarget:sharetarget:1.1.0"
     implementation libs.androidx.core
     implementation "androidx.media:media:1.6.0"
-    implementation "androidx.transition:transition:1.4.1"
+    implementation "androidx.transition:transition:1.7.0"
 
     implementation "org.threeten:threetenbp:1.4.0:no-tzdb"
     implementation "com.gabrielittner.threetenbp:lazythreetenbp:0.10.0"

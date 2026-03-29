@@ -56,7 +56,7 @@ ext.libs = [
                 'fragmentKtx'             : "androidx.fragment:fragment-ktx:1.4.1",
                 'constraintLayout'        : "androidx.constraintlayout:constraintlayout:2.1.4",
                 'work'                    : "androidx.work:work-runtime-ktx:2.7.1",
-                'autoFill'                : "androidx.autofill:autofill:1.1.0",
+                'autoFill'                : "androidx.autofill:autofill:1.3.0",
                 'preferenceKtx'           : "androidx.preference:preference-ktx:1.2.0",
                 'junit'                   : "androidx.test.ext:junit:1.1.3",
                 'lifecycleCommon'         : "androidx.lifecycle:lifecycle-common:$lifecycle",

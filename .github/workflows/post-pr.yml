@@ -59,7 +59,7 @@ jobs:
           httpPort: 8080
           disableRateLimiting: true
           public_baseurl: "http://10.0.2.2:8080/"
-      - uses: actions/setup-java@v3
+      - uses: actions/setup-java@v5
         with:
           distribution: 'adopt'
           java-version: '11'
